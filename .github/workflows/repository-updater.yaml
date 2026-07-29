@@ -15,4 +15,4 @@ jobs:
         with:
           app: ${{ github.event.client_payload.app }}
           repository: ${{ github.repository }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.UPDATER_TOKEN }}
