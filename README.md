@@ -14,6 +14,10 @@ https://github.com/datf/hassio-addons
 
 Cusomizable caddy server
 
+### &#10003; Crowdsec
+
+CrowdSec - the open-source and participative IPS
+
 ### &#10003; Dante
 
 SOCKS proxy server
