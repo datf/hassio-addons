@@ -2,11 +2,9 @@
 
 ## Installation
 
-Use the following URL to add this repository to your Home Assistant:
+Click the button below to add this repository to your Home Assistant:
 
-```txt
-https://github.com/datf/hassio-addons
-```
+[![Open your Home Assistant instance and show the add app repository dialog with a specific repository URL pre-filled.][repo-badge]][repo]
 
 ## Apps provided by this repository
 
@@ -39,3 +37,6 @@ the following:
 - ``MAJOR``: Incompatible or major changes.
 - ``MINOR``: Backwards-compatible new features and enhancements.
 - ``PATCH``: Backwards-compatible bugfixes and package updates.
+
+[repo-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
+[repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fdatf%2Fhassio-addons
